@@ -1,0 +1,35 @@
+
+.dblue{
+    background-color: #f8fbff ;
+}
+
+.c2-ic1{
+    background-color: #facfca ;
+}
+.c2-ic2{
+    background-color: #f8aec3;
+}
+.c2-ic3{
+    background-color:#c1aef8;
+}
+.c2-ic4{
+    background-color:#b5f2e3 ;
+}
+
+.proicon{
+    width:50px;
+    height:50px ;
+}
+
+.con-5-bg{
+    background-color: rgb(78, 78, 236);
+}
+.footr-bg{
+    background-color: rgb(4, 4, 104);
+}
+a{
+    text-decoration: none;
+}
+.twhite{
+    color: white;
+}
